@@ -1,4 +1,4 @@
-## 🎬 Movie Recommendation System 🍿
+# 🎬 Movie Recommendation System 🍿
 
 Welcome to the Movie Recommendation System - your ultimate destination for discovering the perfect movie for your next movie night! 🎥🌟
 
