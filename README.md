@@ -7,6 +7,9 @@ Welcome to the Movie Recommendation System - your ultimate destination for disco
 ## Introduction
 This Movie Recommendation System is designed to provide you with personalized movie suggestions based on your preferences. It utilizes Natural Language Processing (NLP) and machine learning to create a curated list of movie recommendations that match your interests. 📽️🔮
 
+## Colab Link - 
+[Check it out here](https://colab.research.google.com/drive/11-VTW74mgVbQJ1QEbZ52KUaFG0I4SOex?usp=sharing)! 🚀🌐
+
 ## Features
 🌟 **Key Features** 🌟
 - **User-Friendly Interface**: Our app offers an intuitive and user-friendly experience. 💻🖱️
